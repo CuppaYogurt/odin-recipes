@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    font-family: Verdana, sans-serif, 'Times New Roman';
+}
+
+.title{
+    background-color: #D19284;
+    padding: 10px;
+    display:inline-block;
+    border-radius: 20px;
+}
+
+.recipes{
+    background-color: #E6BAB1;
+    border-radius: 20px;
+}
